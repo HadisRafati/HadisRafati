@@ -1,4 +1,4 @@
-# Hi, I'm Hadis Rafati 👋
+# Hi, I'm Hadis Rafati 
 
 Software Engineering graduate focused on Machine Learning and Computer Vision.
 
